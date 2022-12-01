@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nemanja Vujičić
-- 👀 Started playing arround computer vision during collage 2012-2013... project was writen in C#, usinf AForge framework.
+- 👀 Started playing arround computer vision during college 2012-2013... project was writen in C#, usinf AForge framework.
 - 🌱 As you can see right now I am learning Python, playing a bit 
 - 📫 Feel free to contact me on vujicicn2@gmail.com
 
